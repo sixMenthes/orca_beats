@@ -9,11 +9,11 @@ def gen_paths(df1, df2):
     return df['gs_FilePath'].to_list()
 
 def win_to_posix(win_path):
-    path = PureWindowsPath(win_path)
     root = 'dclde_2026_killer_whales/'
-    dataset = path.parts[2].lower()
-    same = path.parts[3:]
-    return str(PurePosixPath(root)/ dataset / Path(*same))
+    path = PureWindowsPath(win_path)
+    filename = path.name
+    subdirs = [p.lower() for p in path.parts[2:-1]]
+    return str(PurePosixPath(root)/ Path(*subdirs) / filename)
 
 def posix_to_uri(posix_path):
     noaa_root = 'gs://noaa-passive-bioacoustic/dclde/2027'
