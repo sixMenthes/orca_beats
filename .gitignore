@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 ds/dclde_2026_killer_whales/
+ds/Tokenizer_iter3.pt
 __pycache__/
 *.py[codz]
 *$py.class
