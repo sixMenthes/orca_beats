@@ -34,6 +34,6 @@ def main():
             f.write(p+'\n')
     df1.to_csv('./local_birdnet05.csv')
     df2.to_csv('./local_birdnet09.csv')
-
+    
 if __name__ == '__main__':
     main()
