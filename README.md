@@ -19,10 +19,10 @@ To take advantage of the explainability that logistic regressions offer, we extr
 
 ### References
 
-[^1] Palmer, K.J. et al. (2025) “A Public Dataset of Annotated Orcinus orca Acoustic Signals for Detection and Ecotype Classification,” Scientific Data, 12(1), p. 1137. Available at: https://doi.org/10.1038/s41597-025-05281-5.
-[^2] Palmer, K.J. et al. (no date) “Population‐Level Acoustic Classification of Salish Sea Killer Whales: Integrating Biologically Informed Call Type Balancing to Build Robust Models for Conservation Monitoring.” Available at: https://doi.org/10.1111/mms.70126.
-[^3] Cauzinille, J. et al. (2024) “Investigating self-supervised speech models’ ability to classify animal vocalizations: The case of gibbon’s vocal signatures,” Interspeech 2024. Interspeech 2024, ISCA, pp. 132–136. Available at: https://doi.org/10.21437/Interspeech.2024-1096.
-[^4] Chen, S. et al. (2022) “BEATs: Audio Pre-Training with Acoustic Tokenizers.” arXiv. Available at: https://doi.org/10.48550/arXiv.2212.09058.
+[^1]: Palmer, K.J. et al. (2025) “A Public Dataset of Annotated Orcinus orca Acoustic Signals for Detection and Ecotype Classification,” Scientific Data, 12(1), p. 1137. Available at: https://doi.org/10.1038/s41597-025-05281-5.
+[^2]: Palmer, K.J. et al. (no date) “Population‐Level Acoustic Classification of Salish Sea Killer Whales: Integrating Biologically Informed Call Type Balancing to Build Robust Models for Conservation Monitoring.” Available at: https://doi.org/10.1111/mms.70126.
+[^3]: Cauzinille, J. et al. (2024) “Investigating self-supervised speech models’ ability to classify animal vocalizations: The case of gibbon’s vocal signatures,” Interspeech 2024. Interspeech 2024, ISCA, pp. 132–136. Available at: https://doi.org/10.21437/Interspeech.2024-1096.
+[^4]: Chen, S. et al. (2022) “BEATs: Audio Pre-Training with Acoustic Tokenizers.” arXiv. Available at: https://doi.org/10.48550/arXiv.2212.09058.
  
 ### Custom Scripts
 
