@@ -1,4 +1,5 @@
 # Byte-compiled / optimized / DLL files
+beats/labels.pt
 ds/dclde_2026_killer_whales/
 ds/Tokenizer_iter3.pt
 __pycache__/
