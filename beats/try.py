@@ -2,7 +2,7 @@ import torch
 from Tokenizers import TokenizersConfig, Tokenizers
 
 # load the pre-trained checkpoints
-checkpoint = torch.load('/home/tundra/projects/orcas/orca_beats/ds/Tokenizer_iter3.pt')
+checkpoint = torch.load('./ds/Tokenizer_iter3.pt')
 
 cfg = TokenizersConfig(checkpoint['cfg'])
 BEATs_tokenizer = Tokenizers(cfg)
