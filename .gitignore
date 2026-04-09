@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+mixit/sound-separation/
+.venvtf/
 .vscode/
 beats/labels.pt
 ds/dclde_2026_killer_whales/
